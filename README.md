@@ -1,2 +1,1 @@
-# AUC CI COMPUTATION
-Computation of Confidence Intervals for the Area under a ROC Curve applying the Bootstrap method
+# Computation of Confidence Intervals for the Area under a ROC Curve applying the Bootstrap method
